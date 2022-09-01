@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["zixuanwang342.eu-gb.mybluemix.net","localhost","eu-gb.mybluemix.net","apic.eu-gb.mybluemix.net","eu-gb.cf.appdomain.cloud","apps.internal"]
+ALLOWED_HOSTS = ["zixuanwang.eu-gb.mybluemix.net","localhost","eu-gb.mybluemix.net","apic.eu-gb.mybluemix.net","eu-gb.cf.appdomain.cloud","apps.internal"]
 
 
 # Application definition
